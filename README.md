@@ -1,6 +1,9 @@
 # Expense Tracker
 
 Expense Tracker is a Django project designed to help you manage your expenses and visualize your spending habits. It provides a user-friendly interface to input and track expenses, displaying them in pie charts for a better understanding of your financial trends. The project also includes a feature to determine whether your savings are meeting your desired goals.
+
+![image](https://github.com/pantvasu8/Expense-Tracker/assets/96621003/4ae1917f-5544-42a8-84fa-4e2f8c3a73af)
+
 ![image](https://github.com/pantvasu8/Expense-Tracker/assets/96621003/1d8fbe9b-b740-42f0-9826-8ed8b0c8d9fd)
 ## Features
 
